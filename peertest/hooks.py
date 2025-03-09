@@ -7,6 +7,8 @@ app_license = "mit"
 
 # Apps
 # ------------------
+app_include_js = ["/assets/peertest/js/video_call.js"]
+web_include_js = ["/assets/peertest/js/video_call.js"]
 
 # required_apps = []
 
